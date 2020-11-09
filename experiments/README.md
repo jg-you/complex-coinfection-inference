@@ -1,6 +1,6 @@
 # experiments
 
-Scripts and datasets used to produce all the results presented in [https://arxiv.org/abs/1905.xxxxxx](https://arxiv.org/abs/1905.xxxxxx) (both the manuscript and the Supplementary Materials).
+Scripts and datasets used to produce all the results presented in [https://arxiv.org/abs/1906.01147](https://arxiv.org/abs/1906.01147) (both the manuscript and the Supplementary Materials).
 
 
 ##  `time_series/`
